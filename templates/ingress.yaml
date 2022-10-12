@@ -31,7 +31,7 @@ spec:
         # Next line required in k8s 1.19 and not supported in <=1.17
         pathType: Exact
         backend:
-          service: 
+          service:
             name: fleet
             port: 
               name: fleet
