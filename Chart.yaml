@@ -1,0 +1,12 @@
+apiVersion: v1
+description: A Helm chart for Fleet
+name: fleet
+keywords:
+  - fleet
+  - osquery
+version: v4.21.0
+home: https://github.com/DoVietHoang1712/fleet
+sources:
+  - https://github.com/DoVietHoang1712/fleet.git
+appVersion: v4.21.0
+
