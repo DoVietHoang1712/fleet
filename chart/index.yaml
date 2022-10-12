@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  fleet:
+  - apiVersion: v1
+    appVersion: v4.21.0
+    created: "2022-10-12T15:43:57.256488376+07:00"
+    description: A Helm chart for Fleet
+    digest: 0fc6d4ae08db4258a16bea9e36079f1bfdc8d414858bf44691adbcc92eb03e6e
+    home: https://github.com/DoVietHoang1712/fleet
+    keywords:
+    - fleet
+    - osquery
+    name: fleet
+    sources:
+    - https://github.com/DoVietHoang1712/fleet.git
+    urls:
+    - release/fleet-v4.21.0.tgz
+    version: v4.21.0
+generated: "2022-10-12T15:43:57.255709188+07:00"
